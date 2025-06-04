@@ -1,0 +1,2 @@
+datasets:
+    - json_path: train_datasets/mixed_train_1000.json
