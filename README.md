@@ -14,8 +14,7 @@ Please download the train and test datasets from Huggingface.
 
 * Train dataset: [Download](https://huggingface.co/datasets/instruction-gen/nig4vi-train)
 * Test dataset: [Download](https://huggingface.co/datasets/instruction-gen/nig4vi-test)
-* Images: [Download](https://mega.nz/file/nJpiDBTI#fOJumJVbe-r3UqUVrcnOS4offoREUyliQE9rfAXgUVU)
-
+* Images: The images are included in the collected routes. Please download them from the [Carla Environment](#-carla-environment) section below.
 You'll need to configure the dataset path in:
 ~~~
 src/open-r1-multimodal/data_config/
